@@ -31,7 +31,7 @@ Data Source <a href="https://archive.org/download/data_20190829/DATA.zip">[Link]
 * Crop Type Map for Maize
 
 ### 2. Tables
-* Yield and Population per Subcounty
+#### Yield and Population per Subcounty
  - POP: total population for the sub-county 
  - S_Yield_Ha: average yield for sorghum for the sub-county (Kg/Ha)
  - M_Yield_Ha: average yield for maize for the sub-county (Kg/Ha)
@@ -40,5 +40,5 @@ Data Source <a href="https://archive.org/download/data_20190829/DATA.zip">[Link]
  - M_Area_Ha: total maize crop area for the sub-county (Ha)
  - S_Prod_Tot: total productivity for the sorghum for the sub-county (Kg)
  - M_Prod_Tot: total productivity for the maize for the sub-county (Kg)
-* Yield and Population per District 
+  #### Yield and Population per District 
 
